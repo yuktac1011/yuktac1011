@@ -1,258 +1,353 @@
-# 👋 Hey there! I'm Yukta Chaudhari
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-chaudhariyukta936%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhariyukta936@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208007384911-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918007384911)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6C63FF&style=for-the-badge)](https://github.com/yourusername)
+# 🚀 Welcome to My Digital Universe
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yukta%20Chaudhari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
----
-
-## 🚀 About Me
-
-> *"Converting complex problems into elegant solutions, one line of code at a time."*
-
-🎓 **B.Tech in Information Technology** @ SVKM Dwarkadas J. Sanghvi College of Engineering  
-📊 **Diploma in Computer Engineering** - 95.20% (MSBTE)  
-💼 **Backend Developer Intern** @ CircuitWala (May - July 2024)
-
-I'm passionate about building robust backend systems, analyzing massive datasets, and creating machine learning solutions that make a real-world impact. My journey in tech has been marked by hands-on projects, competitive wins, and a relentless drive to learn.
-
-<details>
-<summary>📈 GitHub Stats</summary>
 <br>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Backend+Developer+%F0%9F%92%BB+%7C+Data+Alchemist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF)
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
+[![Email](https://img.shields.io/badge/chaudhariyukta936%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:chaudhariyukta936@gmail.com)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-255E63?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yourprofile)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-</details>
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
+
+```typescript
+const yukta = {
+    code: ["Python", "C++", "C", "Dart", "Java", "SQL", "TypeScript"],
+    askMeAbout: ["Backend Development", "Data Analytics", "ML/AI", "System Design"],
+    technologies: {
+        backEnd: {
+            python: ["Flask", "FastAPI"],
+            databases: ["MySQL", "SQLite", "Firebase"],
+            misc: [".NET", "RESTful APIs"]
+        },
+        frontEnd: {
+            js: ["React"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        devOps: ["Docker", "CI/CD", "Git"],
+        tools: ["VS Code", "Android Studio", "Figma", "Wireshark", "Burp Suite"],
+        cybersecurity: ["Network Analysis", "Penetration Testing", "Security Auditing"]
+    },
+    currentFocus: "Building scalable backend systems & ML-powered applications",
+    funFact: "I turn coffee into code and data into decisions ☕➡️💻"
+};
+```
+
+<div align="center">
+
+### 🌟 Highlights
+
+| 🏆 NASA Space Apps Challenge Winner | 🥇 Synergy Technical Paper Winner | 🎯 Top 10 @ Codeverse 3.0 |
+|:---:|:---:|:---:|
+
+</div>
 
 ---
 
-## 💼 Professional Experience
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Tech Stack
 
-### 🔧 Backend Developer Intern | **CircuitWala**
-*May 2024 - July 2024*
+<div align="center">
 
-```python
-experience = {
-    "role": "Backend Developer Intern",
-    "focus_areas": [
-        "Server-side logic implementation",
-        "Database architecture & optimization",
-        "Collaborative backend development",
-        "Production environment deployment"
-    ],
-    "impact": "Contributed to scalable backend solutions"
-}
-```
+### 💻 Languages & Core
+
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🔐 Security & Networks
+
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
 ## 🎯 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌦️ [WeatherProb](https://github.com/yourusername/weatherprob)
-**Historical Weather Analytics Dashboard**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🌦️ WeatherProb
+#### Historical Weather Analytics Dashboard
 
-🔹 Transformed **35 years** of NASA climate data  
-🔹 Probability-based insights engine  
-🔹 Trend & distribution analysis  
-🔹 Interactive full-stack dashboard
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+<br><br>
+
+📊 **35 Years** of NASA Climate Data  
+🎲 Probability-based weather insights  
+📈 Advanced trend & distribution analysis  
+⚡ Interactive full-stack dashboard  
+
+<br>
+
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/weatherprob)
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🕵️ [TruthLens](https://github.com/yourusername/truthlens)
-**Fake Review Detection System**
+<div align="center">
 
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🕵️ TruthLens
+#### Fake Review Detection System
 
-🔹 Multi-model text classification  
-🔹 Consensus-based prediction  
-🔹 Advanced NLP techniques  
-🔹 High accuracy fake review detection
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=probot&logoColor=white" />
+
+<br><br>
+
+🤖 Multi-model ML classification  
+🎯 Consensus-based predictions  
+📝 Advanced NLP techniques  
+✅ High-accuracy fake detection  
+
+<br>
+
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/truthlens)
+
+</div>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👥 [C-Track](https://github.com/yourusername/ctrack)
-**Real-Time Crowd Detection System**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+### 👥 C-Track
+#### Real-Time Crowd Detection System
 
-🔹 Live video processing & analysis  
-🔹 Real-time density monitoring  
-🔹 Threshold-based alert system  
-🔹 Automated PDF documentation
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+<br><br>
+
+📹 Live video processing & analysis  
+🎯 Real-time density monitoring  
+🚨 Threshold-based alert system  
+📄 Automated PDF documentation  
+
+<br>
+
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ctrack)
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 More Projects Coming Soon...
+<div align="center">
 
-```javascript
-const nextProject = async () => {
-  while (learning) {
-    const idea = await brainstorm();
-    const project = build(idea);
-    return deploy(project);
-  }
-};
+### 🚀 More Innovation
+#### Coming Soon...
+
+<img src="https://img.shields.io/badge/In_Development-FFA500?style=flat-square&logo=rocket&logoColor=white" />
+
+<br><br>
+
+```python
+while True:
+    learn()
+    build()
+    innovate()
+    repeat()
 ```
+
+<br>
+
+💡 Always cooking up something new  
+🔬 Experimenting with cutting-edge tech  
+🌟 Stay tuned for more projects!  
+
+<br>
+
+[![Follow](https://img.shields.io/badge/Follow_Journey-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Arsenal
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
-
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Security & Network Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-### Core Concepts
-```
-📊 Data Structures & Algorithms
-🌐 Computer Networks
-🤖 Machine Learning
-🔒 Cybersecurity Fundamentals
-```
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🥇 Achievement | 🏅 Event/Organization |
-|:---|:---|
-| 🌟 **Winner** | NASA Space Apps Challenge (Local Round, India) |
-| 🌟 **Winner** | Synergy Technical Paper Presentation, M.H. Saboo Siddik Polytechnic |
-| 🏅 **Top 10** | Codeverse 3.0 Hackathon |
-
 </div>
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Analytics
 
-<details>
-<summary>Click to expand certifications</summary>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Yukta's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="Yukta's GitHub streak"/>
+</div>
 
-- ✅ **Master C++ Programming** - Udemy
-- ✅ **Python for Beginners** - Udemy
-- ✅ **TechoByte Cybersecurity Program** - IIT Bombay
-
-</details>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-## 📊 Coding Activity
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+---
+
+## 📈 Coding Stats
+
+<div align="center">
 
 <!--START_SECTION:waka-->
 ```text
-Python       ████████████░░░░░░░░  60%
-C++          ████████░░░░░░░░░░░░  40%
-SQL          ██████░░░░░░░░░░░░░░  30%
-JavaScript   ████░░░░░░░░░░░░░░░░  20%
+🌞 Morning    ████████░░░░░░░░░  35%
+🌆 Daytime    ██████████████░░░  62%
+🌃 Evening    ██████░░░░░░░░░░░  28%
+🌙 Night      ████░░░░░░░░░░░░░  18%
 ```
 <!--END_SECTION:waka-->
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-```javascript
-const currentlyWorking = {
-  learning: ["Advanced Machine Learning", "Cloud Architecture", "System Design"],
-  building: ["Personal Portfolio", "Open Source Contributions"],
-  exploring: ["DevOps Practices", "Microservices Architecture"],
-  reading: ["Clean Code", "Designing Data-Intensive Applications"]
-};
-```
-
----
-
-## 📫 Let's Connect!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhariyukta936@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+```javascript
+const currentGoals = {
+    🎓 learning: [
+        "Advanced System Design",
+        "AI/ML Deep Dive",
+        "Advanced Databse Management"
+    ],
+    🔨 building: [
+        "Open Source Contributions",
+        "ML-Powered SaaS Product"
+    ],
+    📚 reading: [
+        "Designing Data-Intensive Applications",
+        "Clean Architecture",
+        "The Pragmatic Programmer"
+    ],
+    🎯 goals2026: [
+        "Contribute to Major Open Source Projects",
+        "Build & Deploy 5 Production Apps",
+        "Master Database Technologies"
+    ]
+};
+```
 
 </div>
 
 ---
 
+## 💬 Let's Connect & Collaborate!
+
 <div align="center">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="mailto:chaudhariyukta936@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yukta-chaudhari-725065303">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/yuktac1011">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+<br><br>
+
+### 💭 Daily Inspiration
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br>
+
+### 👀 Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+
+<br>
 
 ---
 
-⭐️ **If you find my work interesting, consider giving my repos a star!** ⭐️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<h3 align="center">
+⭐ From <a href="https://github.com/yourusername">Yukta Chaudhari</a> with 💜
+</h3>
 
-**Last Updated:** Automatically via GitHub Actions
+<h4 align="center">
+"Code is like humor. When you have to explain it, it's bad." – Cory House
+</h4>
 
 </div>
