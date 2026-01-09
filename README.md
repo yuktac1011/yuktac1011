@@ -170,7 +170,7 @@ const yukta = {
 
 ## 🎯 Current Focus
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const currentGoals = {
@@ -178,14 +178,14 @@ const currentGoals = {
         "Advanced Backend Development",
         "Deep Learning & Neural Networks",
         "Advanced Data Structures & Algorithms",
-        "Full-Stack Development"
+        "Advanced Database Development"
     ],
     🔨 building: [
         "Open Source Contributions",
         "ML-Powered Applications",
         "Backend REST APIs"
     ],
-    🎯 goals2025: [
+    🎯 goals2026: [
         "Contribute to Open Source Projects",
         "Build 5 Production-Ready Apps",
         "Master Machine Learning",
@@ -222,10 +222,6 @@ const currentGoals = {
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<h3 align="center">
-⭐ From <a href="https://github.com/yuktac1011">Yukta Chaudhari</a> with 💜
-</h3>
 
 <h4 align="center">
 "Code is like humor. When you have to explain it, it's bad." – Cory House
