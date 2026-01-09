@@ -11,7 +11,6 @@
 <br>
 
 [![Email](https://img.shields.io/badge/chaudhariyukta936%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:chaudhariyukta936@gmail.com)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-255E63?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yukta-chaudhari-725065303)
 
 <br>
@@ -27,7 +26,7 @@
 ```typescript
 const yukta = {
     code: ["Python", "C++", "C", "Dart", "Java", "SQL", "TypeScript"],
-    askMeAbout: ["Backend Development", "Data Analytics", "ML/AI", "Cybersecurity"],
+    askMeAbout: ["Backend Development", "Data Analytics", "AI/ML", "Cybersecurity"],
     technologies: {
         backEnd: {
             python: ["Flask", "Django"],
@@ -51,7 +50,7 @@ const yukta = {
 
 ### 🌟 Highlights
 
-| 🏆 NASA Space Apps Challenge Winner | 🥇 Synergy Technical Paper Winner | 🎯 Top 10 @ Codeverse 3.0 |
+| 🏆 NASA Space Apps Challenge Winner | 🥇 Synergy Technical Paper Presentation Winner | 🎯 Top 10 @ Codeverse 3.0 |
 |:---:|:---:|:---:|
 
 </div>
@@ -250,48 +249,11 @@ while True:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuktac1011&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="Yukta's GitHub streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuktac1011&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuktac1011&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuktac1011/yuktac1011/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuktac1011/yuktac1011/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuktac1011/yuktac1011/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🎓 Certifications & Learning
-
-<div align="center">
-
-| Certificate | Provider | Focus Area |
-|:---:|:---:|:---:|
-| 🎯 Master C++ Programming | Udemy | Advanced C++ Concepts |
-| 🐍 Python for Beginners | Udemy | Python Fundamentals |
-| 🔐 TechoByte Cybersecurity Program | IIT Bombay | Security & Networks |
-
-</div>
-
----
 
 ## 📈 Coding Stats
 
@@ -327,14 +289,9 @@ const currentGoals = {
         "ML-Powered Applications",
         "Backend REST APIs"
     ],
-    📚 reading: [
-        "Clean Code by Robert Martin",
-        "The Pragmatic Programmer",
-        "Python Machine Learning"
-    ],
     🎯 goals2025: [
         "Contribute to Open Source Projects",
-        "Build Production-Ready Apps",
+        "Build 5 Production-Ready Apps",
         "Master Machine Learning",
         "Strengthen Problem-Solving Skills"
     ]
@@ -358,9 +315,6 @@ const currentGoals = {
 <a href="https://github.com/yuktac1011">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
 
 <br><br>
 
@@ -370,13 +324,6 @@ const currentGoals = {
 
 <br>
 
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/yuktac1011/count.svg)
-
-<br>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
