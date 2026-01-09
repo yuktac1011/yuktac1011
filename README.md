@@ -12,7 +12,7 @@
 
 [![Email](https://img.shields.io/badge/chaudhariyukta936%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:chaudhariyukta936@gmail.com)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-255E63?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yukta-chaudhari-725065303)
 
 <br>
 
@@ -27,10 +27,10 @@
 ```typescript
 const yukta = {
     code: ["Python", "C++", "C", "Dart", "Java", "SQL", "TypeScript"],
-    askMeAbout: ["Backend Development", "Data Analytics", "ML/AI", "System Design"],
+    askMeAbout: ["Backend Development", "Data Analytics", "ML/AI", "Cybersecurity"],
     technologies: {
         backEnd: {
-            python: ["Flask", "FastAPI"],
+            python: ["Flask", "Django"],
             databases: ["MySQL", "SQLite", "Firebase"],
             misc: [".NET", "RESTful APIs"]
         },
@@ -38,9 +38,9 @@ const yukta = {
             js: ["React"],
             css: ["Tailwind", "Bootstrap"]
         },
-        devOps: ["Docker", "CI/CD", "Git"],
-        tools: ["VS Code", "Android Studio", "Figma", "Wireshark", "Burp Suite"],
-        cybersecurity: ["Network Analysis", "Penetration Testing", "Security Auditing"]
+        tools: ["VS Code", "Android Studio", "Figma", "Git"],
+        security: ["Wireshark", "Nmap", "Burp Suite"],
+        machineLearning: ["Scikit-learn", "TensorFlow", "OpenCV", "NLP"]
     },
     currentFocus: "Building scalable backend systems & ML-powered applications",
     funFact: "I turn coffee into code and data into decisions ☕➡️💻"
@@ -71,6 +71,7 @@ const yukta = {
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
@@ -80,6 +81,7 @@ const yukta = {
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Backend
@@ -91,7 +93,7 @@ const yukta = {
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Frameworks
 
 <p>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -99,14 +101,18 @@ const yukta = {
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🔐 Security & Networks
+### 🔐 Security & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 </div>
@@ -139,7 +145,7 @@ const yukta = {
 
 <br>
 
-[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/weatherprob)
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuktac1011/weatherprob)
 
 </div>
 
@@ -164,7 +170,7 @@ const yukta = {
 
 <br>
 
-[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/truthlens)
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuktac1011/truthlens)
 
 </div>
 
@@ -192,7 +198,7 @@ const yukta = {
 
 <br>
 
-[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ctrack)
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuktac1011/ctrack)
 
 </div>
 
@@ -224,7 +230,7 @@ while True:
 
 <br>
 
-[![Follow](https://img.shields.io/badge/Follow_Journey-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Follow](https://img.shields.io/badge/Follow_Journey-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuktac1011)
 
 </div>
 
@@ -239,16 +245,16 @@ while True:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Yukta's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuktac1011&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Yukta's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktac1011&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="Yukta's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuktac1011&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="Yukta's GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuktac1011&custom_title=Contribution%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -256,7 +262,33 @@ while True:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yuktac1011&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuktac1011/yuktac1011/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuktac1011/yuktac1011/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuktac1011/yuktac1011/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🎓 Certifications & Learning
+
+<div align="center">
+
+| Certificate | Provider | Focus Area |
+|:---:|:---:|:---:|
+| 🎯 Master C++ Programming | Udemy | Advanced C++ Concepts |
+| 🐍 Python for Beginners | Udemy | Python Fundamentals |
+| 🔐 TechoByte Cybersecurity Program | IIT Bombay | Security & Networks |
+
 </div>
 
 ---
@@ -285,23 +317,26 @@ while True:
 ```javascript
 const currentGoals = {
     🎓 learning: [
-        "Advanced System Design",
-        "AI/ML Deep Dive",
-        "Advanced Databse Management"
+        "Advanced Backend Development",
+        "Deep Learning & Neural Networks",
+        "Advanced Data Structures & Algorithms",
+        "Full-Stack Development"
     ],
     🔨 building: [
         "Open Source Contributions",
-        "ML-Powered SaaS Product"
+        "ML-Powered Applications",
+        "Backend REST APIs"
     ],
     📚 reading: [
-        "Designing Data-Intensive Applications",
-        "Clean Architecture",
-        "The Pragmatic Programmer"
+        "Clean Code by Robert Martin",
+        "The Pragmatic Programmer",
+        "Python Machine Learning"
     ],
-    🎯 goals2026: [
-        "Contribute to Major Open Source Projects",
-        "Build & Deploy 5 Production Apps",
-        "Master Database Technologies"
+    🎯 goals2025: [
+        "Contribute to Open Source Projects",
+        "Build Production-Ready Apps",
+        "Master Machine Learning",
+        "Strengthen Problem-Solving Skills"
     ]
 };
 ```
@@ -323,6 +358,9 @@ const currentGoals = {
 <a href="https://github.com/yuktac1011">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 <br><br>
 
@@ -334,7 +372,7 @@ const currentGoals = {
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/yuktac1011/count.svg)
 
 <br>
 
@@ -343,7 +381,7 @@ const currentGoals = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <h3 align="center">
-⭐ From <a href="https://github.com/yourusername">Yukta Chaudhari</a> with 💜
+⭐ From <a href="https://github.com/yuktac1011">Yukta Chaudhari</a> with 💜
 </h3>
 
 <h4 align="center">
