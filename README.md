@@ -5,20 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=940&lines=Backend+Developer+%F0%9F%92%BB+%7C+Machine+Learning+Practitioner+%F0%9F%A4%96;Data+Alchemist+%F0%9F%93%8A+%7C+Security+Enthusiast+%F0%9F%94%92;Crafting+Scalable+Engines+%26+Predictive+Systems+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yuktac1011&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="mailto:chaudhariyukta936@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chaudhariyukta936%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yukta-chaudhari-725065303">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/yuktac1011">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Journey-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=940&lines=Backend+Developer+%F0%9F%92%BB+%7C+Machine+Learning+Practitioner+%F0%9F%A4%96;Data+Alchemist+%F0%9F%93%8A+%7C+Security+Enthusiast+%F0%9F%94%92;Building+Scalable+Engines+%26+Predictive+Systems+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,7 +18,17 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate software engineer and machine learning practitioner focused on designing robust backend infrastructures, building data pipelines, and implementing intelligent decision-support models. I enjoy turning complex data into actionable logic and building products that scale.
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a passionate software engineer and machine learning practitioner focused on designing robust backend infrastructures, building data pipelines, and implementing intelligent decision-support models. I enjoy turning complex data into actionable logic and building products that scale.</p>
+      <p>💡 Always cooking up something new<br>🔬 Experimenting with cutting-edge tech<br>🌟 Constantly aiming for engineering excellence</p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 ```typescript
 const developerProfile = {
@@ -34,12 +36,6 @@ const developerProfile = {
   role: "Backend & ML Engineer",
   philosophy: "Turn coffee into clean code and raw data into reliable decisions ☕ ➡️ 💻",
   coreLanguages: ["Python", "C++", "TypeScript", "SQL", "Dart", "Java"],
-  expertise: {
-    backend: ["RESTful APIs", "Flask", "Django", ".NET"],
-    databases: ["MySQL", "SQLite", "Firebase"],
-    machineLearning: ["Scikit-Learn", "TensorFlow", "OpenCV", "NLP"],
-    security: ["Wireshark", "Nmap", "Burp Suite"]
-  },
   currentFocus: "Scalable system architectures & custom predictive modeling"
 };
 ```
@@ -50,7 +46,7 @@ const developerProfile = {
 
 <div align="center">
 
-| 🌌 NASA Space Apps Challenge | 📄 Synergy Technical Presentation | 🎯 Codeverse 3.0 |
+| 🌌 NASA Space Apps | 📄 Synergy Technical Presentation | 🎯 Codeverse 3.0 |
 | :---: | :---: | :---: |
 | **Global Winner / Participant** | **1st Place Winner** | **Top 10 Finalist** |
 | Innovating on space-tech solutions | Research & technical paper presentation | Competitive hackathon coding |
@@ -61,90 +57,51 @@ const developerProfile = {
 
 ## 🛠️ Technology Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗄️ Backend & Databases</h4>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Machine Learning & Data</h4>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend & Hybrid</h4>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔒 Security & Tools</h4>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Workflow & IDEs</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,dart,java,ts,mysql,sqlite,postgres" />
+</p>
+
+### 🗄️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,dotnet,flutter,react,html,css" />
+</p>
+
+### 🧠 Machine Learning, Security & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikit-learn,git,figma,vscode,androidstudio" />
+</p>
+
+</div>
 
 ---
 
-## 📈 Activity & Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yuktac1011&show_icons=true&count_private=true&hide_border=true&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9&bg_color=0d1117" alt="Yukta's GitHub Stats" /> 
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yuktac1011&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" alt="Yukta's GitHub Stats" /> 
       </td>
       <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktac1011&layout=compact&hide_border=true&title_color=7DF9FF&text_color=c9d1d9&bg_color=0d1117" alt="Yukta's Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktac1011&layout=compact&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" alt="Yukta's Top Languages" />
       </td>
     </tr>
   </table>
   <br>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuktac1011&custom_title=Contribution%20Graph&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuktac1011&custom_title=Contribution%20Graph&bg_color=0D1117&color=00e5ff&line=00e5ff&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<br>
+---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-#### ⏰ Coding Breakdown
-
-```text
-🌞 Morning    ████████░░░░░░░░░  35%
-🌆 Daytime    ██████████████░░░  62%
-🌃 Evening    ██████░░░░░░░░░░░  28%
-🌙 Night      ████░░░░░░░░░░░░░  18%
-```
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuktac1011/yuktac1011/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
 
 ---
 
