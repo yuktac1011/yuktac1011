@@ -25,7 +25,6 @@
 
 ```typescript
 const yukta = {
-    role: "B.Tech IT student @ DJ Sanghvi College of Engineering | 9.5 SGPA",
     code: ["Python", "SQL", "PL/SQL", "C", "C++", "Dart"],
     askMeAbout: ["Backend Development", "Machine Learning", "Data Analytics", "Cybersecurity"],
     technologies: {
